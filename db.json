@@ -9,6 +9,8 @@
     "name": "typicode"
   },
   "table": {
+    "code": 0,
+    "message": "OK",
     "data": [
       [
         "Tiger Nixon",
